@@ -33,11 +33,11 @@ def obter_informacoes_ios(ip, username, password):
 
 
 # Definir a lista de endereços IP
-ips = ['10.104.48.12', '10.104.48.107', '10.104.48.254']
+ips = ['10.100.48.12', '10.100.48.107', '10.100.48.254']
 
 # Definir o nome de usuário e senha para se conectar aos switches
-username = 'adilson.pedro'
-password = 'salvador7572'
+username = 'seu_user'
+password = 'sua_senha'
 
 # Criar uma lista para armazenar as informações dos switches
 devices_info = []
